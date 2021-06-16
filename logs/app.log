@@ -1,0 +1,8 @@
+2021-06-16 07:29:42,482 DEBUG c.n.HelloWorld [main] Hello from Log4j2
+2021-06-16 07:29:42,485 DEBUG c.n.HelloWorld [main] 5
+2021-06-16 07:30:45,467 DEBUG c.n.HelloWorld [main] Hello from Log4j2
+2021-06-16 07:30:45,470 DEBUG c.n.HelloWorld [main] 5
+2021-06-16 07:30:45,470 INFO c.n.HelloWorld [main] inside HelloWorld main ()
+2021-06-16 07:36:16,833 DEBUG c.n.HelloWorld [main] Hello from Log4j2
+2021-06-16 07:36:16,836 DEBUG c.n.HelloWorld [main] 5
+2021-06-16 07:36:16,836 INFO c.n.HelloWorld [main] inside HelloWorld main ()
